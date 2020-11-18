@@ -3,5 +3,5 @@ html,
 h1 {
   text-align: center;
   font-size: 1.5em;
-  font-color: rgb(20,20,200);
+  color: (rgb(20,20,200));
 }

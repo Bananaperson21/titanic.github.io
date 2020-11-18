@@ -1,5 +1,6 @@
 html,
 
-h1 {
+body {
+  background-color: navy;
   text-align: center;
 }

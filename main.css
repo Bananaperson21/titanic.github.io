@@ -2,6 +2,6 @@ html,
 
 h1 {
   text-align: center;
-  font-size: 2em;
-  line-height: 5px;
+  font-size: 1.5em;
+  font-color: rgb(20,20,200);
 }

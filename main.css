@@ -1,7 +1,7 @@
 html,
 
 body {
-  background-color: navy;
+  background-color: lightblue;
   line-height: 0.5em;
   text-align: center;
   font-size: 1.5em;
@@ -9,7 +9,7 @@ body {
 }
 
 h5 {
-  background-color: lightblue;
+  background-color: rgb(20,50,200);
   line-height: 1em;
 }
 

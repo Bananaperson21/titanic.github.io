@@ -25,3 +25,7 @@ img {
 p {
   text-align: left;
 }
+ul {
+overflow: scroll;  
+}
+  

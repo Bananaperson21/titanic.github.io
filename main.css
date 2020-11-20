@@ -26,6 +26,8 @@ p {
   text-align: left;
 }
 .facts {
+  line-height: 1.25em;
+  
   height: 100%;
   position: relative;
 overflow-y: scroll;  

@@ -26,12 +26,9 @@ p {
   text-align: left;
 }
 #fact {
-  background-color: lightblue;
+  background-color: lightskyblue;
 }
 .facts {
-  background-color: navy;
-  color: silver;
-  
   line-height: 1.25em;
   
   height: 100%;

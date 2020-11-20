@@ -10,7 +10,9 @@ body {
   font-size: 1.5em;
   
 }
-
+#title {
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9c/Titanic_wreck_bow.jpg");  
+}
 h5 {
   background-color: lightgreen;
   border: 2px solid lemonchiffon;
@@ -20,7 +22,6 @@ h5 {
 #invisgreen1 {
   color: lightgreen;
 }
-
 .circle {
   border-radius: 50%;
 }

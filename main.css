@@ -2,6 +2,8 @@ html,
 
 body {
   background-color: lightblue;
+  overflow: hidden;
+  
   line-height: 0.5em;
   text-align: center;
   font-size: 1.5em;

@@ -5,6 +5,8 @@ body {
   height: 100%;
   overflow: hidden;
   
+  border: solid navy 5px;
+  
   line-height: 0.5em;
   text-align: center;
   font-size: 1.5em;
@@ -13,10 +15,7 @@ body {
 
 h5 {
   background-color: lightgreen;
-  
-  border-style: solid;
-  border-color: lemonchiffon;
-  border-width: 2px;
+  border: solid lemonchiffon 2px;
   
   line-height: 1em;
 }
@@ -32,6 +31,7 @@ p {
 }
 #fact {
   background-color: lightskyblue;
+  border: solid navy 2px;
 }
 .facts {
   line-height: 1.25em;

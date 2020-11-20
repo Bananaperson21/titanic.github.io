@@ -25,6 +25,6 @@ img {
 p {
   text-align: left;
 }
-#infoH {
+p .information {
   background-color: yellow;
 }

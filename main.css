@@ -11,6 +11,7 @@ body {
   
 }
 #title {
+  height: 100%;
 background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9c/Titanic_wreck_bow.jpg");  
 }
 h5 {

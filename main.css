@@ -13,6 +13,11 @@ body {
 
 h5 {
   background-color: lightgreen;
+  
+  border-style: solid;
+  border-color: lemonchiffon;
+  border-width: 2px;
+  
   line-height: 1em;
 }
 #invisgreen1 {

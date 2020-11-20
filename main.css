@@ -26,6 +26,7 @@ p {
   text-align: left;
 }
 .facts {
-overflow-y: auto;  
+  height: 100%;
+overflow-y: scroll;  
 }
   

@@ -12,7 +12,8 @@ body {
 }
 #title {
 background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Iceberg_in_the_Arctic_with_its_underside_exposed.jpg/1024px-Iceberg_in_the_Arctic_with_its_underside_exposed.jpg");
-  border: 18px solid navy;
+  border: 2px solid navy;
+  border-bottom: 18px solid navy;
 }
 h5 {
   background-color: steelblue;

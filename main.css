@@ -17,7 +17,7 @@ background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d
 }
 h5 {
   background-color: steelblue;
-  border: 3px outset navy;
+  border: 3px solid navy;
   
   line-height: 1em;
 }
@@ -26,7 +26,7 @@ h5 {
 }
 .circle {
   border-radius: 50%;
-  border: 1px outset navy;
+  border: 1px solid navy;
 }
 p {
   text-align: left;

@@ -25,7 +25,7 @@ img {
 p {
   text-align: left;
 }
-#facts {
+.facts {
 overflow-y: auto;  
 }
   

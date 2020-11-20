@@ -5,7 +5,7 @@ body {
   height: 100%;
   overflow: hidden;
   
-  border: 5px double navy;
+  border: 2px solid navy;
   
   line-height: 0.5em;
   text-align: center;

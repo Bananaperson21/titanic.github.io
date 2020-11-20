@@ -26,6 +26,6 @@ p {
   text-align: left;
 }
 ul {
-overflow: auto;  
+overflow: visible;  
 }
   

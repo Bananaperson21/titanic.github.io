@@ -25,6 +25,6 @@ img {
 p {
   text-align: left;
 }
-p .information {
+#infohead {
   background-color: yellow;
 }

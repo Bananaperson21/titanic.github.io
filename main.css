@@ -47,7 +47,7 @@ p {
   overflow-y: scroll;  
 }
 .story {
-  line-height: 1.50em;
+  line-height: 8px;
   
   height: 100%;
   position: relative;

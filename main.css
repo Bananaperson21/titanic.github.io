@@ -47,9 +47,11 @@ p {
   overflow-y: scroll;  
 }
 .story {
-  line-height: 12px;
+  line-height: 1.25em;
   
   height: 100%;
+  position: relative;
+  overflow-y: scroll;
 }
 .infoback {
   background-color: steelblue;

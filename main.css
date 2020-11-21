@@ -42,4 +42,8 @@ p {
   position: relative;
 overflow-y: scroll;  
 }
-  
+#back {
+  background-color: steelblue;
+  border: 3px solid navy;
+  border-bottom: 18px solid navy;
+}

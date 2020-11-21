@@ -35,6 +35,10 @@ p {
   background-color: steelblue;
   border: 3px solid navy;
 }
+#history {
+  background-color: steelblue;
+  border: 3px solid navy;
+}
 .facts {
   line-height: 1.25em;
   
@@ -42,7 +46,7 @@ p {
   position: relative;
 overflow-y: scroll;  
 }
-.back {
+.infoback {
   background-color: steelblue;
   border: 3px solid navy;
   border-bottom: 18px solid navy;

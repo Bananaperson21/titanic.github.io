@@ -55,4 +55,12 @@ p {
   border: 3px solid navy;
   border-bottom: 18px solid navy;
 }
-  
+ #gamestart {
+   width:100px;
+   height:75px;
+   
+   position:relative;
+   top:100px;
+   
+}
+   

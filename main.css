@@ -56,10 +56,8 @@ p {
   border-bottom: 18px solid navy;
 }
  #gamestart {
-   width:100px;
-   height:75px;
-   
-   top:100px;
+   width: 2em;
+   height: 2em;
    
 }
    
